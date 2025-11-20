@@ -12,21 +12,21 @@ export default function AboutMe() {
         />
 
         {/* PROFILE NAME */}
-        <Text style={styles.profileName}>⚡ Yuvaraj ⚡</Text>
+        <Text style={styles.profileName}>⚡ YUVARAJU ⚡</Text>
 
         <Text style={styles.title}>About Me</Text>
 
         <Text style={styles.info}>
-          👋 Hi, I'm <Text style={styles.highlight}>Yuvaraj</Text>
+          👋 Hi, I'm <Text style={styles.highlight}>YUVARAJU K B</Text>
         </Text>
         <Text style={styles.info}>
-          🎉 I'm <Text style={styles.highlight}>19 years old</Text>
+          🎉 AND I'm <Text style={styles.highlight}>19 YEARS OLD</Text>
         </Text>
         <Text style={styles.info}>
           🛠️ A passionate <Text style={styles.highlight}>Engineer</Text>
         </Text>
         <Text style={styles.info}>
-          🚀 Building <Text style={styles.highlight}>real-world projects</Text> every day
+          🚀 Building REAL WORLD PROJECT <Text style={styles.highlight}>AND</Text> every day
         </Text>
         <Text style={styles.info}>
           💼 And working as a <Text style={styles.highlight}>Freelancer</Text>
@@ -42,18 +42,18 @@ const styles = StyleSheet.create({
     flex: 1,
     alignItems: 'center',
     justifyContent: 'center',
-    backgroundColor: '#0a0a0a',
+    backgroundColor: '#ffffffff',
     padding: 20,
   },
   card: {
     width: '90%',
-    backgroundColor: '#1a1a1a',
+    backgroundColor: '#ce808eff',
     padding: 25,
     borderRadius: 18,
     alignItems: 'center',
     borderWidth: 2,
-    borderColor: '#0ff',
-    shadowColor: '#0ff',
+    borderColor: 'rgba(12, 227, 227, 0.21)',
+    shadowColor: 'rgba(249, 181, 242, 1)',
     shadowOpacity: 0.5,
     shadowRadius: 20,
   },
